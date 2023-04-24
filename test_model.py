@@ -15,4 +15,4 @@ def askllama(question):
     qa = load_embeddings(MODEL_PATH,PERSIST_DIRECTORY,DOCUMENT_NAME,COLLECTION_NAME)
     print(qa.run(question))
     
-askllama("what are you")
+askllama("what gender is Charles?")
