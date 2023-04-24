@@ -1,0 +1,16 @@
+model,trial,request_load_time,request_sample_time/runs,request_prompt_eval_time/5 tokens,request_eval_time/runs,request_total time,response_load_time,response_sample_time,n runs for response _sample_time,response_sample_time/run,response_prompt_eval_time/60 tokens,response_eval_time,n runs for response_eval_time,response_eval_time/run,response_total time,Output
+gpt4all-lora-quantized-ggml,1,9728.69,0.00/1,9699.52,0.00/1,9732.85,12335.29,50.02,19,2.632631579,90098.86,33744.35,18,1874.686111,123916.71,This is a helpful answer that may or may not have any relevance to your question
+gpt4all-lora-quantized-ggml,2,9823.52,0.00/1,9807.09,0.00/1,9824.84,15429.89,51.29,21,2.442380952,88659.09,32436.31,20,1621.8155,121179.89,"I am a human being and i have emotions like happiness, sadness, anger or fear."
+gpt4all-lora-quantized-ggml,3,9668.23,0.00/1,9651.01,0.00/1,9671.07,15126.91,110.95,38,2.919736842,91640.34,84847.47,37,2293.174865,176635.84,this could be anyone on your contact list or from a unknown source Contextual Answer: This is in reference to the phone call and the user is unuser of who it is from
+gpt4all-lora-quantized-ggml,4,8954.98,0.00/1,8954.05,0.00/1,8955.9,11267.34,42.24,20,2.112,74216.49,21861.6,19,1150.610526,95127.52,This is a useful piece of information for the purpose of answering questions about yourself or your identity
+gpt4all-lora-quantized-ggml,5,9449.59,0.00/1,9431.44,0.00/1,9454.09,14177.34,78.47,25,3.1388,99475,60698.71,24,2529.112917,160293.65,It would be great if we could find out who this caller is and conect to them with out department for further assistance
+Mean,-,9525.002,-,9508.622,-,9527.75,13667.354,66.594,24.6,2.649109875,88817.956,46717.688,23.6,1893.879984,135430.722,-
+standard deviation,-,347.0331785,-,338.8608491,-,347.6015386,1804.950435,28.33073119,7.829431652,0.4014133697,9170.703368,25687.73841,7.829431652,545.3884523,32695.69434,-
+,,,,,,,,,,,,,,,,
+ggml-q4-0,1,6959.78,0.00/1,6959.48,0.00/1,6960.05,8333.86,50.26,23,2.185217391,55886.79,21417.85,22,973.5386364,77384.43,This sounds like a technical support call. Can you please provide your email ID and we can assist you further?
+ggml-q4-0,2,10666.44,0.00/1,10666.15,0.00/1,10667.39,8718.09,41.47,15,2.764666667,66342.26,22934.44,14,1638.174286,89329.92,This is XYZ Company. Can I help you with anything?
+ggml-q4-0,3,8819.79,0.00/1,8819.51,0.00/1,8820.15,8872.83,65.4,33,1.981818182,54647.47,30874.97,32,964.8428125,85594.56,"I am not sure what your question is, but if you are looking for assistance with a technical issue, please provide more information so we can help you better"
+ggml-q4-0,4,9938.7,0.00/1,9338.52,0.00/1,9339.13,9069.83,32.72,16,2.045,54920.62,14208.23,15,947.2153333,69164.91,This is an automated system. Can I assist you with anything else?
+ggml-q4-0,5,5077.15,0.00/1,5076.9,0.00/1,5077.43,7503.65,48.64,24,2.026666667,53616.67,23134.91,23,1005.865652,76805.32,You are speaking with a virtual assistant or AI program and can ask if questions about the company or service it represents
+Mean,-,8292.372,-,8172.112,-,8172.83,8499.652,47.698,22.2,2.200673781,57082.762,22514.08,21.2,1105.927344,79655.828,-
+standard deviation,-,2276.961706,-,2182.35372,-,2182.56987,618.7864944,12.08243022,7.259476565,0.3243213878,5238.987286,5929.91312,7.259476565,298.2952675,7940.412442,-
