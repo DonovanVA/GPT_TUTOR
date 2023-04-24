@@ -1,5 +1,6 @@
 # > pip install -r requirements.txt
 # install gpt4all binaries here:https://the-eye.eu/public/AI/models/nomic-ai/gpt4all/
+# convert the binaries to a the new ggml format here: https://github.com/ggerganov/llama.cpp
 # Import necessary packages
 from load_embeddings import load_embeddings
 # Define the path to the GPT4ALL model file
